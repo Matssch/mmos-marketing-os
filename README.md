@@ -1,7 +1,7 @@
 # MMOS Ltd. | Marketing Growth & P&L Impact
 An international B2B SaaS marketing leadership simulation: from marketing activities to commercial outcomes.
 
-**Company:** MMOS Ltd. (fictional; *Mr Mats Operating Systems*)  
+**Company:** MMOS Ltd. (fictional, *Mr Mats Operating Systems*)  
 **Position simulated:** International Marketing Lead  
 **Model:** B2B SaaS subscriptions with a transaction-enabled platform  
 **Markets:** Netherlands, Germany, United Kingdom, Spain, United Arab Emirates  
